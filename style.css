@@ -1,0 +1,19 @@
+body{
+    margin-bottom:0px;
+}
+h2{
+    margin:100 100 30 10;
+    border-style:dotted;
+    padding-top:20px;
+    margin-top:20px;
+    padding-left:30px;
+    padding-bottom: 30px;
+    padding-right:100px;
+    color:aqua;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 17px;
+
+}
+u{
+    box-sizing: border-box;
+}
